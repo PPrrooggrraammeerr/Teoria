@@ -1,0 +1,21 @@
+MVC, que significa Model-View-Controller, é um padrão arquitetural utilizado no desenvolvimento de aplicações, especialmente em aplicações web.
+O objetivo do MVC é separar as diferentes responsabilidades dentro de uma aplicação, o que facilita a manutenção e a escalabilidade.
+Vamos detalhar cada componente:
+
+Model:
+
+    Representa os dados e a lógica de negócios da aplicação.
+    Encapsula as regras de validação, manipulação e acesso aos dados, geralmente interagindo com um banco de dados.
+    Notifica a View sobre mudanças nos dados para que ela possa ser atualizada.
+
+View:
+
+    É responsável pela apresentação da interface do usuário.
+    Renderiza a saída, geralmente em HTML, CSS e JavaScript, e exibe os dados que o Model fornece.
+    Recebe as interações do usuário (como cliques e entradas de texto) e as repassa ao Controller.
+
+Controller:
+
+    Age como intermediário entre o Model e a View.
+    Recebe as solicitações do usuário, processa essas solicitações (geralmente consultando o Model), e determina qual View deve ser exibida.
+    Atualiza a View com os dados adequados e pode modificar o Model, conforme necessário.
