@@ -1,1 +1,12 @@
-pip install xyz --break-system-packages
+error: externally-managed-environment ocorre quando você tenta usar o pip diretamente em um ambiente Python que é gerenciado por um gerenciador de pacotes.
+Normalmente ocorre em sistemas operacionais Linux, portanto, segue abaixo dois formatos de como lidar e resolver este problema técnico.
+
+First format:
+
+python3 -m venv ~/py_envs
+source ~/py_envs/bin/activate
+python3 -m pip install 'library_name'
+
+Second format:
+
+pip install 'library_name' --break-system-packages
