@@ -1,0 +1,39 @@
+As diferenças entre Linux e Windows vão além do modelo de licenciamento.
+Abaixo, abordamos aspectos como capacidades, segurança, uso em servidores e popularidade.
+
+Capacidades e Limitações
+
+Personalização e Controle: O Linux oferece maior flexibilidade e controle sobre o sistema, permitindo modificações profundas e personalização conforme as necessidades do usuário.
+Já o Windows possui uma estrutura mais rígida, limitando alterações no sistema.
+
+Acesso ao Sistema: No Linux, o acesso root concede controle total, facilitando tarefas administrativas.
+No Windows, o acesso de administrador também permite controle, mas com restrições impostas pela Microsoft.
+
+Segurança
+
+Vulnerabilidades: O Linux é menos visado por hackers devido à sua arquitetura e menor base de usuários, tornando-o menos propenso a ataques.
+O Windows, sendo mais popular, é um alvo mais frequente para malwares e vírus. 
+
+Permissões e Controle: O Linux possui um sistema de permissões robusto que restringe o acesso a arquivos e processos, dificultando a propagação de malwares.
+No Windows, embora haja controles de segurança, a arquitetura facilita a execução de softwares não autorizados.
+
+Uso em Servidores
+
+Popularidade: O Linux domina o mercado de servidores, especialmente em ambientes web, devido à sua estabilidade, segurança e custo reduzido.
+O Windows Server é utilizado em casos específicos que requerem tecnologias proprietárias da Microsoft. 
+
+Desempenho: O Linux é conhecido por sua eficiência e capacidade de operar por longos períodos sem reinicializações, o que é crucial para servidores que exigem alta disponibilidade.
+
+Popularidade e Conhecimento
+
+Conhecimento e Uso: Apesar de sua presença significativa em servidores, o Linux é menos conhecido entre usuários domésticos, principalmente devido à maior familiaridade com o Windows e à disponibilidade de softwares populares para este sistema. 
+
+Comunidade e Suporte: O Linux possui uma comunidade ativa que contribui para seu desenvolvimento e suporte, enquanto o Windows conta com suporte oficial da Microsoft.
+
+Facilidade de Hackeamento
+
+Acesso e Exploração: A maior base de usuários do Windows torna-o um alvo mais atrativo para hackers, que exploram vulnerabilidades conhecidas.
+O Linux, com sua arquitetura e permissões mais restritivas, apresenta desafios adicionais para invasores.
+
+Atualizações e Patches: Ambos os sistemas recebem atualizações de segurança, mas a rapidez e eficácia dessas atualizações podem variar.
+A comunidade Linux tende a responder rapidamente a vulnerabilidades, enquanto o Windows depende do ciclo de atualizações da Microsoft.
